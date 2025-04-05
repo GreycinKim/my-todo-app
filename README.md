@@ -6,7 +6,9 @@
 
 # Start
  cd my-todo-app
+ 
  install npm
+ 
  npm install tailwindcss @tailwindcss/postcss postcss
 
  npm run dev
